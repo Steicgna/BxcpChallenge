@@ -29,7 +29,7 @@
     <None Update="Services\test123.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Services\testfile.txt">
+    <None Update="testfile.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Services\testfile_countries.txt">
